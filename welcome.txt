@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 echo "Hello bhai";
 
+=======
+echo "hii bhai";
+>>>>>>> e264e2be035b9d5f4181e8629834e269f86d4ac8
